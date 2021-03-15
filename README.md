@@ -1,1 +1,1 @@
-# Vacation app
+# Vacation app frontend
